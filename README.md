@@ -36,7 +36,7 @@ Perfect for restaurants that want to:
 
 ```bash
 # Download the setup script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/restaurant-wifi-portal/main/setup.sh
+wget https://raw.githubusercontent.com/1337it/captive_portal_queue/main/setup.sh
 
 # Make it executable
 chmod +x setup.sh
