@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Configuration (may contain sensitive data)
+# Uncomment if you have custom configs with secrets
+# config.py
+# secrets.json
+
+# DHCP leases (contains MAC addresses)
+dnsmasq.leases
+
+# SSL certificates (if added)
+*.key
+*.crt
+*.pem
+
+# Screenshots (optional - remove if you want to include them)
+# screenshots/
